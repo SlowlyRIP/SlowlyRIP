@@ -1,8 +1,9 @@
-[README.md](https://github.com/user-attachments/files/31418529/README.md)<div align="center">
+[README.md](https://github.com/user-attachments/files/31418806/README.md)
+<div align="center">
 
 # ☩ 𝕾𝖑𝖔𝖜𝖑𝖞'𝖘 𝕲𝖎𝖙𝖍𝖚𝖇 ☩
 
-**C++ · Java · C# · Reverse Engineering · Algorithm**
+**C++ · Java · C# · Reverse Engineering · Algorithm **
 
 `gothic code` · `silver logic` · `subculture soul` · `cosmic curiosity`
 
@@ -28,6 +29,16 @@ Outside the terminal, I am drawn to **physics**, **mathematics**, and the quiet 
 
 ---
 
+### ♱ Tools I Use ♱
+
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-111111?style=for-the-badge&logo=visualstudio&logoColor=white)
+![IDA](https://img.shields.io/badge/IDA-111111?style=for-the-badge&logo=hackthebox&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-111111?style=for-the-badge&logo=notepadplusplus&logoColor=white)
+![x64dbg](https://img.shields.io/badge/x64dbg-111111?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
 ### ⚜ Current Quest ⚜
 
 ```txt
@@ -48,6 +59,14 @@ Outside the terminal, I am drawn to **physics**, **mathematics**, and the quiet 
 | Physics | laws beneath the surface |
 | Mathematics | symbols that bend reality |
 | Universe | stars, entropy, spacetime, unknowns |
+
+---
+
+### ☩ My Pages ☩
+
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/azuresky4677/)
+[![TikTok](https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@UnKnown)
+[![UnknownCheats](https://img.shields.io/badge/UnknownCheats-111111?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.unknowncheats.me/forum/members/slowlya.html)
 
 ---
 
