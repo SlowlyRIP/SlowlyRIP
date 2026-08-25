@@ -11,11 +11,7 @@
 
 ### 𖤐 About Me 𖤐
 
-I write code with a dark-metal aesthetic and a precise engineer's mindset.
-
-Focused on **C++ / Java / C#**, fascinated by **reverse engineering**, and currently sharpening my edge through **algorithms**.
-
-Outside the terminal, I am drawn to **physics**, **mathematics**, and the quiet violence of the **universe**.
+我有抑郁症
 
 ---
 
