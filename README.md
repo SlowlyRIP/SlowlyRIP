@@ -1,4 +1,5 @@
-<img src="./assets/gothic-divider.svg" width="100%" alt="Gothic divider" />
+<img src="./assets/cosmic-sigil.svg" width="100%" alt="Cosmic gothic sigil" />
+
 <div align="center">
 
 # ☩ 𝕾𝖑𝖔𝖜𝖑𝖞'𝖘 𝕲𝖎𝖙𝖍𝖚𝖇 ☩
@@ -34,17 +35,6 @@
 ![x64dbg](https://img.shields.io/badge/x64dbg-111111?style=for-the-badge&logo=windows&logoColor=white)
 
 <img src="./assets/gothic-divider.svg" width="100%" alt="Gothic divider" />
-
-### ⚜ Current Doing ⚜
-
-```txt
-> 
-> .... 
-```
-
----
-
-<img src="./assets/cosmic-sigil.svg" width="100%" alt="Cosmic gothic sigil" />
 
 ---
 
