@@ -1,0 +1,27 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="280" fill="#050505"/>
+  <rect x="20" y="20" width="1160" height="240" rx="8" stroke="#E8E8E8" stroke-width="2"/>
+  <rect x="36" y="36" width="1128" height="208" rx="6" stroke="#6F6F6F" stroke-width="1"/>
+  <path d="M0 0H1200V280H0V0Z" fill="url(#mist)"/>
+  <g opacity="0.48">
+    <circle cx="150" cy="142" r="68" stroke="#BFBFBF" stroke-width="1"/>
+    <circle cx="1050" cy="142" r="68" stroke="#BFBFBF" stroke-width="1"/>
+    <path d="M150 64V220M72 142H228M110 102L190 182M190 102L110 182" stroke="#CFCFCF" stroke-width="1"/>
+    <path d="M1050 64V220M972 142H1128M1010 102L1090 182M1090 102L1010 182" stroke="#CFCFCF" stroke-width="1"/>
+  </g>
+  <g stroke="#D9D9D9" stroke-width="2" opacity="0.9">
+    <path d="M310 140H500"/>
+    <path d="M700 140H890"/>
+    <path d="M500 140C540 110 560 110 600 140C640 170 660 170 700 140"/>
+  </g>
+  <text x="600" y="123" text-anchor="middle" fill="#F2F2F2" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700" letter-spacing="4">SLOWLY'S GITHUB</text>
+  <text x="600" y="168" text-anchor="middle" fill="#BFBFBF" font-family="Consolas, monospace" font-size="18" letter-spacing="5">REVERSE ENGINEERING / ALGORITHMS / COSMIC CODE</text>
+  <text x="600" y="215" text-anchor="middle" fill="#EAEAEA" font-family="Georgia, 'Times New Roman', serif" font-size="26">+  black silver charm  +</text>
+  <defs>
+    <radialGradient id="mist" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 140) rotate(90) scale(220 540)">
+      <stop stop-color="#363636" stop-opacity="0.72"/>
+      <stop offset="0.5" stop-color="#121212" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#050505" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

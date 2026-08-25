@@ -1,0 +1,26 @@
+<svg width="1200" height="240" viewBox="0 0 1200 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="240" rx="8" fill="#070707"/>
+  <rect x="18" y="18" width="1164" height="204" rx="6" stroke="#D8D8D8" stroke-width="2"/>
+  <g opacity="0.9" stroke="#DCDCDC">
+    <circle cx="600" cy="120" r="72" stroke-width="1.5"/>
+    <ellipse cx="600" cy="120" rx="170" ry="48" stroke-width="1"/>
+    <ellipse cx="600" cy="120" rx="170" ry="48" transform="rotate(60 600 120)" stroke-width="1"/>
+    <ellipse cx="600" cy="120" rx="170" ry="48" transform="rotate(120 600 120)" stroke-width="1"/>
+    <path d="M600 42V198M522 120H678" stroke-width="1.4"/>
+  </g>
+  <g fill="#F2F2F2" font-family="Georgia, 'Times New Roman', serif">
+    <text x="250" y="86" font-size="28">E = mc2</text>
+    <text x="820" y="86" font-size="28">f(x)</text>
+    <text x="220" y="166" font-size="24">0xDEADBEEF</text>
+    <text x="792" y="166" font-size="24">entropy / spacetime</text>
+  </g>
+  <g fill="#BDBDBD">
+    <circle cx="425" cy="52" r="3"/>
+    <circle cx="748" cy="36" r="2"/>
+    <circle cx="1010" cy="118" r="3"/>
+    <circle cx="178" cy="125" r="2"/>
+    <circle cx="945" cy="196" r="2"/>
+    <circle cx="315" cy="205" r="3"/>
+  </g>
+  <text x="600" y="130" text-anchor="middle" fill="#FFFFFF" font-family="Consolas, monospace" font-size="20" letter-spacing="4">MATH / PHYSICS / UNIVERSE</text>
+</svg>
