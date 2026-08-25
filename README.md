@@ -38,39 +38,15 @@
 ### ⚜ Current Quest ⚜
 
 ```txt
-> Studying algorithms
-> Reading low-level systems
-> Breaking binaries to understand them
-> Connecting code with math, physics, and cosmic structure
+> 
+> 
 ```
-
----
-
-### ☽ Fields That Pull Me In ☾
-
-| Domain | Obsession |
-| --- | --- |
-| Reverse Engineering | binaries, memory, hidden logic |
-| Algorithms | structure, complexity, problem solving |
-| Physics | laws beneath the surface |
-| Mathematics | symbols that bend reality |
-| Universe | stars, entropy, spacetime, unknowns |
-
----
 
 ### ☩ My Pages ☩
 
 [![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/azuresky4677/)
 [![TikTok](https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@UnKnown)
 [![UnknownCheats](https://img.shields.io/badge/UnknownCheats-111111?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.unknowncheats.me/forum/members/slowlya.html)
-
----
-
-### 𝕯𝖆𝖗𝖐 𝕸𝖔𝖙𝖙𝖔
-
-> Build quietly.  
-> Think deeply.  
-> Reverse the unknown.
 
 ---
 
