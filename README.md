@@ -11,7 +11,7 @@
 
 ### 𖤐 About Me 𖤐
 
-我有抑郁症
+我有抑鬱症
 
 ---
 
@@ -35,11 +35,11 @@
 
 ---
 
-### ⚜ Current Quest ⚜
+### ⚜ Current Doing ⚜
 
 ```txt
-> XXXXXXXXXXXXXXXXXXXX
-> xxxxxxxxxxxxxxxxxxxx
+> 
+> .... 
 ```
 
 ### ☩ My Pages ☩
@@ -50,6 +50,6 @@
 
 ---
 
-<sub>☩ black silver code altar ☩</sub>
+<sub>☩ CharmSkin ☩</sub>
 
 </div>
