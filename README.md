@@ -38,8 +38,8 @@
 ### ⚜ Current Quest ⚜
 
 ```txt
-> 
-> 
+> XXXXXXXXXXXXXXXXXXXX
+> xxxxxxxxxxxxxxxxxxxx
 ```
 
 ### ☩ My Pages ☩
