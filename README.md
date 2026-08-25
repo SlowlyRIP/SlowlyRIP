@@ -1,4 +1,4 @@
-
+<img src="./assets/gothic-divider.svg" width="100%" alt="Gothic divider" />
 <div align="center">
 
 # ☩ 𝕾𝖑𝖔𝖜𝖑𝖞'𝖘 𝕲𝖎𝖙𝖍𝖚𝖇 ☩
@@ -54,7 +54,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@UnKnown)
 [![UnknownCheats](https://img.shields.io/badge/UnknownCheats-111111?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.unknowncheats.me/forum/members/slowlya.html)
 
-<img src="./assets/gothic-divider.svg" width="100%" alt="Gothic divider" />
+
 
 ---
 
