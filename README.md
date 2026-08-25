@@ -1,13 +1,13 @@
-[README.md](https://github.com/user-attachments/files/31418806/README.md)
+
 <div align="center">
 
 # ☩ 𝕾𝖑𝖔𝖜𝖑𝖞'𝖘 𝕲𝖎𝖙𝖍𝖚𝖇 ☩
 
-**C++ · Java · C# · Reverse Engineering · Algorithm **
+**C++ · Java · C# · Reverse Engineering · Algorithm**
 
 `gothic code` · `silver logic` · `subculture soul` · `cosmic curiosity`
 
----
+<img src="./assets/gothic-divider.svg" width="100%" alt="Gothic divider" />
 
 ### 𖤐 About Me 𖤐
 
@@ -23,7 +23,7 @@
 ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-111111?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-111111?style=for-the-badge&logo=thealgorithms&logoColor=white)
 
----
+<img src="./assets/gothic-divider.svg" width="100%" alt="Gothic divider" />
 
 ### ♱ Tools I Use ♱
 
@@ -33,7 +33,7 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-111111?style=for-the-badge&logo=notepadplusplus&logoColor=white)
 ![x64dbg](https://img.shields.io/badge/x64dbg-111111?style=for-the-badge&logo=windows&logoColor=white)
 
----
+<img src="./assets/gothic-divider.svg" width="100%" alt="Gothic divider" />
 
 ### ⚜ Current Doing ⚜
 
@@ -42,11 +42,19 @@
 > .... 
 ```
 
+---
+
+<img src="./assets/cosmic-sigil.svg" width="100%" alt="Cosmic gothic sigil" />
+
+---
+
 ### ☩ My Pages ☩
 
 [![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/azuresky4677/)
 [![TikTok](https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@UnKnown)
 [![UnknownCheats](https://img.shields.io/badge/UnknownCheats-111111?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.unknowncheats.me/forum/members/slowlya.html)
+
+<img src="./assets/gothic-divider.svg" width="100%" alt="Gothic divider" />
 
 ---
 
