@@ -15,16 +15,13 @@
 <img src="./assets/gothic-divider.svg" width="100%" alt="Gothic divider" />
 
 
-### ☩ Tech Arsenal ☩
+### ☩ Arsenal ☩
 
 ![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-111111?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-111111?style=for-the-badge&logo=thealgorithms&logoColor=white)
-
-
-### ♱ Tools I Use ♱
 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-111111?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![IDA](https://img.shields.io/badge/IDA-111111?style=for-the-badge&logo=hackthebox&logoColor=white)
