@@ -3,9 +3,9 @@
 
 # ☩ 𝕾𝖑𝖔𝖜𝖑𝖞'𝖘 𝕲𝖎𝖙𝖍𝖚𝖇 ☩
 
-**C++ · Java · C# · Reverse Engineering · Algorithm**
+**C++ · C# · Reverse Engineering · Algorithm**
 
-`gothic code` · `silver logic` · `subculture soul` · `cosmic curiosity`
+`` · `` · `` · ``
 
 <img src="./assets/gothic-divider.svg" width="100%" alt="Gothic divider" />
 
