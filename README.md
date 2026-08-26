@@ -3,7 +3,7 @@
 
 # ☩ 𝕾𝖑𝖔𝖜𝖑𝖞'𝖘 𝕲𝖎𝖙𝖍𝖚𝖇 ☩
 
-**C++ · C# · Reverse Engineering · Algorithm**
+**software engineering · reverse engineering · algorithm**
 
 `` 🏳️‍⚧️ `` 🇨🇳 `` 🏳️‍🌈 ``
 
