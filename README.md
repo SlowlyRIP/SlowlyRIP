@@ -1,4 +1,4 @@
-<img src="./assets/mountains.png" width="100%" alt="Cosmic gothic sigil" />
+<img src="./mountains.png" width="100%" alt="Cosmic gothic sigil" />
 <div align="center">
 
 # ☩ 𝕾𝖑𝖔𝖜𝖑𝖞'𝖘 𝕲𝖎𝖙𝖍𝖚𝖇 ☩
