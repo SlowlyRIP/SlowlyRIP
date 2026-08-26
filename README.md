@@ -7,13 +7,13 @@
 
 `` · `` · `` · ``
 
-<img src="./assets/gothic-divider.svg" width="100%" alt="Gothic divider" />
-
 ### 𖤐 About Me 𖤐
 
 我有抑鬱症
 
----
+
+<img src="./assets/gothic-divider.svg" width="100%" alt="Gothic divider" />
+
 
 ### ☩ Tech Arsenal ☩
 
@@ -23,7 +23,6 @@
 ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-111111?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-111111?style=for-the-badge&logo=thealgorithms&logoColor=white)
 
-<img src="./assets/gothic-divider.svg" width="100%" alt="Gothic divider" />
 
 ### ♱ Tools I Use ♱
 
@@ -33,9 +32,6 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-111111?style=for-the-badge&logo=notepadplusplus&logoColor=white)
 ![x64dbg](https://img.shields.io/badge/x64dbg-111111?style=for-the-badge&logo=windows&logoColor=white)
 
-<img src="./assets/gothic-divider.svg" width="100%" alt="Gothic divider" />
-
----
 
 ### ☩ My Pages ☩
 
