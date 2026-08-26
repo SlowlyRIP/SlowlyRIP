@@ -1,4 +1,3 @@
-<img src="./assets/cosmic-sigil.svg" width="100%" alt="Cosmic gothic sigil" />
 
 <div align="center">
 
