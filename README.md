@@ -5,7 +5,7 @@
 
 **C++ · C# · Reverse Engineering · Algorithm**
 
-`` · `` · `` · ``
+`` 🏳️‍⚧️ `` 🇨🇳 `` 🏳️‍🌈 ``
 
 ### 𖤐 About Me 𖤐
 
