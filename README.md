@@ -5,8 +5,6 @@
 
 **software engineering · reverse engineering · algorithm**
 
-### 𖤐 About Me 𖤐
-
 `` 🏳️‍⚧️ `` 🇨🇳 `` 🏳️‍🌈 ``
 
 ![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=white)
