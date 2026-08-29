@@ -9,8 +9,7 @@
 
 ### 𖤐 About Me 𖤐
 
-
-
+我想要钱
 
 <img src="./assets/gothic-divider.svg" width="100%" alt="Gothic divider" />
 
