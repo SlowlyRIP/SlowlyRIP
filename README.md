@@ -3,9 +3,7 @@
 
 # ☩ 𝕾𝖑𝖔𝖜𝖑𝖞'𝖘 𝕲𝖎𝖙𝖍𝖚𝖇 ☩
 
-**software engineering · reverse engineering · algorithm**
-
-`` 🏳️‍⚧️ `` 🇨🇳 `` 🏳️‍🌈 ``
+**software engineering, reverse engineering, algorithm**
 
 ![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
